@@ -1,2 +1,2 @@
-# open_testing_repo
+# Repository for testing bardeen
 Just some random tests :) 
